@@ -1,0 +1,127 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.top-section{
+    display: flex;
+}
+.left-container{
+    margin-top: 120px;
+}
+h1{
+    font-size:35px;
+    margin-top: -5%;
+}
+.detail-margin{
+    margin-bottom: 40px;
+}
+#small-margin{
+    margin-top: 40px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 10%;
+    margin-left: 10%;
+}
+.half-width img{
+    width: 80%;
+
+}
+.orange-color{
+    color: orange;
+}
+#for-line{
+    padding-left: 10px;
+    border-left: 3px solid;
+    border-image: linear-gradient(orange , tomato);
+    border-image-slice: 1;
+    border-radius: 2px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange , tomato);
+    padding: 10px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.second-container{
+    margin-top: 100px;
+}
+.title-center{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.second-items{
+    display: flex;
+}
+.for-width{
+    width: 30%;
+    margin-left: 4%;
+    margin-right: 2%;
+}
+.for-width img{
+    width: 45%;
+}
+#first-box{
+    background-color: rgb(242, 250, 250);
+    border-radius: 30px;
+    padding: 15px;
+}
+#second-box{
+    background-color: rgb(243, 231, 233);
+    border-radius: 30px;
+    padding: 15px;
+}
+#third-box{
+    background-color: rgb(250, 236, 221);
+    border-radius: 30px;
+    padding: 15px;
+}
+.third-container{
+    margin-top: 120px;
+}
+.width-for3{
+    width: 100%;
+    margin-left: -5%;
+}
+.width-for3 img{
+    width:50%;
+    margin-left: 25%;
+}
+h2{
+    margin-bottom: -3px;
+}
+.width-for4{
+    width: 100%;
+    margin-left: 5%;
+}
+.footer-container{
+    text-align: center;
+    background-color: black;
+    margin-bottom: -5%;
+    margin-left: -5%;
+    margin-right: -5%;
+    padding: 20px;
+    margin-top: 100px;
+}
+.for-white{
+    color: white;
+}
+.for-small{
+    color: white ;
+    font-weight: 100;
+    font-size:small;
+}
+.box-width{
+    width:75%;
+    display: flex;
+    margin-left: 2%;
+    border: 2px solid;
+    box-shadow: 10px 10px 5px gray;
+    padding: 15px;
+}
+.box-width img{
+    width: 30%;
+    margin-right: 2%;
+}
